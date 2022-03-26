@@ -1,13 +1,13 @@
 Proyecto Storytelling (template):
-Nombre del Equipo:
+Nombre del Equipo: Grupo 2
 
-Proyecto (código):
+Proyecto (código): https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ijzQpQb1HCyfTr5MvVNn9zWl9TcxEZls2B09GeU8bA&font=Rufina-Sintony&lang=es&initial_zoom=2&height=650
 
 Resumen
-Personaje
+Personaje: Ángela Pérez
 
 
-Nombre:
+Nombre: 
 
 Historia
 Contexto
@@ -26,7 +26,7 @@ Autores:
 👨 minombre
 👩 minombre
 👩 minombre
-Febrero, 202X
+Febrero, 2022
 
 Proyecto dentro de la serie HRUN Story. Proyectos seleccionados de 2021 / 2020 / 2019 / 2018
 
