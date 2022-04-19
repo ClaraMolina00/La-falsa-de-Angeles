@@ -5,7 +5,7 @@ Enlace al interactivo: https://cdn.knightlab.com/libs/timeline3/latest/embed/ind
 
 ![Ángeles Pérez](https://user-images.githubusercontent.com/101630974/160240914-34b18d23-27b8-40d1-b033-875a59d6ecd2.png)
 
-
+![Ficha del personaje](https://github.com/ClaraMolina00/La-falsa-de-Angeles_22/blob/master/Ficha%20del%20personaje.png) 
 
 Ángeles Pérez (Angelita)
 
