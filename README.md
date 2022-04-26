@@ -9,7 +9,8 @@ Enlace al interactivo: https://cdn.knightlab.com/libs/timeline3/latest/embed/ind
 
 Ángeles Pérez (Angelita)
 
-Resumen
+Resumen: 
+La vida de Ángeles Pérez, Angelita para los amigos, caracterizada por ser de lo más tradicional en el barrio de Carabanchel de Madrid, cambiará de la noche a la mañana al "enterarse" de su relación con la reina Isabel II de Inglaterra. 
 
 Historia
 
